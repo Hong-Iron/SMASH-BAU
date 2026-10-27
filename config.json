@@ -1,0 +1,82 @@
+{
+  "code": "BAU",
+  "title": "SMASH BAU",
+  "school": "백석예대",
+  "fullName": "백석예술대학교",
+  "campusName": "백석예술대학교",
+  "tagline": "백석예대를 부셔 (시험기간 스트레스 해소)",
+  "description": "백석예술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 백석예술대학교 3D 화면과 SMASH BAU 제목",
+  "url": "https://hong-iron.github.io/SMASH-BAU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "center": "37.48060,126.99660,210"
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1445278583",
+      "n": "",
+      "why": "학교 건물 아님 — 건물대장에 2005년에 지은 9층짜리 브라운스톤효령아파트로 올라 있고, 땅도 학교 땅이 아닌 대지(981-40)라서 학교 건물이 아니다."
+    },
+    {
+      "id": "way/798957420",
+      "n": "201동",
+      "why": "학교 건물 아님 — 건물대장과 OpenStreetMap 모두 방배현대멤피스2차 아파트 201동(15층, 대지 982-1)으로 적고 있어 학교 건물이 아니다."
+    },
+    {
+      "id": "way/798957419",
+      "n": "202동",
+      "why": "학교 건물 아님 — 건물대장과 OpenStreetMap 모두 방배현대멤피스2차 아파트 202동(15층, 대지 982-1)으로 적고 있어 학교 건물이 아니다."
+    },
+    {
+      "id": "way/628710196",
+      "n": "",
+      "why": "학교 건물 아님 — 방배역 교차로 인도 위에 있는 작은 지하철 출입구 지붕이고 땅도 도로(981-20)라서 학교 건물이 아니다."
+    },
+    {
+      "id": "way/628710195",
+      "n": "",
+      "why": "학교 건물 아님 — 방배역 교차로 인도 위에 있는 작은 지하철 출입구 지붕이고 땅도 도로(984-5)라서 학교 건물이 아니다."
+    },
+    {
+      "id": "way/628710193",
+      "n": "",
+      "why": "학교 건물 아님 — 방배역 교차로 건너편 인도 위의 지하철 출입구 지붕이고 땅도 도로(912-14)라서 학교 건물이 아니다."
+    },
+    {
+      "id": "way/628710194",
+      "n": "",
+      "why": "학교 건물 아님 — 방배역 교차로 건너편 인도 위의 지하철 출입구 지붕이고 땅도 도로(909-10)라서 학교 건물이 아니다."
+    }
+  ],
+  "look": {
+    "교육동": {
+      "style": "stone",
+      "wall": "#e8e5e0",
+      "glass": "#4f7179",
+      "frame": "#d6d8d6"
+    },
+    "진리동": {
+      "style": "stone",
+      "wall": "#cdd2d4",
+      "glass": "#425454",
+      "frame": "#b8c0c4"
+    },
+    "목양동": {
+      "style": "brick",
+      "wall": "#8f8784",
+      "glass": "#56606a",
+      "frame": "#e0ddd6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
